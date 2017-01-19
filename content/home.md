@@ -1,6 +1,6 @@
 +++
 date = "2017-01-19"
-title = "About"
+title = "Home"
 +++
 
-Bouncer as a Service
+**“Don't Panic.”**

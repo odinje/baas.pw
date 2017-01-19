@@ -1,6 +1,6 @@
 languageCode = "en-us"
 baseurl = "https://baas.pw"
-title = "ircBaas"
+title = "irc Bouncer as a Service"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
