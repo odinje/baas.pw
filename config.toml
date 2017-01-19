@@ -7,7 +7,6 @@ canonifyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-title = "irc Bouncer as a Service"
 pluralizelisttitles = false
 
 [permalinks]
